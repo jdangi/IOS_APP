@@ -1,0 +1,6 @@
+framework module Pods_run_2_gether {
+  umbrella header "Pods-run 2 gether-umbrella.h"
+
+  export *
+  module * { export * }
+}
